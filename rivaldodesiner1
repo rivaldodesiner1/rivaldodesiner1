@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Rivaldo Designer</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>Rivaldo Designer</h1>
+    <nav>
+      <a href="#sobre">Sobre</a>
+      <a href="#servicos">Serviços</a>
+      <a href="#portfolio">Portfólio</a>
+      <a href="#cursos">Cursos</a>
+      <a href="#contato">Contato</a>
+    </nav>
+  </header>
+
+  <section id="home">
+    <h2>Transformando ideias em design de impacto</h2>
+    <p>Social media • Identidade Visual • Edição de vídeo • Cursos</p>
+    <a href="#contato" class="cta">Fale comigo no WhatsApp</a>
+  </section>
+
+  <section id="sobre">
+    <h2>Sobre Mim</h2>
+    <p>Sou o Rivaldo, designer gráfico com paixão por criar marcas fortes, conteúdos criativos e ensinar design para iniciantes e profissionais. Tenho experiência com social media, identidade visual, edição de vídeo e ensino online.</p>
+  </section>
+
+  <section id="servicos">
+    <h2>Serviços</h2>
+    <ul>
+      <li>🎨 Identidade Visual Personalizada</li>
+      <li>📱 Gestão de Redes Sociais</li>
+      <li>🎬 Edição de Vídeo para Reels, TikTok e YouTube</li>
+      <li>📚 Criação de Cursos e Materiais Educacionais</li>
+    </ul>
+  </section>
+
+  <section id="portfolio">
+    <h2>Portfólio</h2>
+    <p>Veja alguns dos meus trabalhos:</p>
+    <div class="galeria">
+      <!-- Adicione suas imagens aqui -->
+      <img src="projeto1.jpg" alt="Projeto 1" />
+      <img src="projeto2.jpg" alt="Projeto 2" />
+      <img src="projeto3.jpg" alt="Projeto 3" />
+    </div>
+  </section>
+
+  <section id="cursos">
+    <h2>Meus Cursos</h2>
+    <p>Confira os cursos disponíveis para designers e criadores:</p>
+    <ul>
+      <li><a href="#">Curso de Photoshop para Iniciantes</a></li>
+      <li><a href="#">Criação de Identidade Visual</a></li>
+      <li><a href="#">Social Media na Prática</a></li>
+    </ul>
+  </section>
+
+  <section id="contato">
+    <h2>Contato</h2>
+    <p>📧 rivaldodesigner@email.com</p>
+    <p>📞 (00) 91234-5678</p>
+    <p>📱 <a href="https://wa.me/55SEUNUMERO" target="_blank">Fale comigo no WhatsApp</a></p>
+    <p>📸 <a href="https://www.instagram.com/rivaldo_designer1" target="_blank">@rivaldo_designer1</a></p>
+  </section>
+
+  <footer>
+    <p>© 2025 Rivaldo Designer - Todos os direitos reservados</p>
+  </footer>
+</body>
+</html>
